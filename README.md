@@ -1,2 +1,2 @@
-# test
-O que é githun
+# Deviz-git-tutorial
+Primeira aula sobre controle de versão dicas rápidas de git
